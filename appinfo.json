@@ -1,0 +1,28 @@
+{
+  "uuid": "d0c1bba9-48cc-4edc-8a58-54eeed7575f5",
+  "shortName": "Helibble",
+  "longName": "Helibble",
+  "companyName": "MakeAwesomeHappen",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": [
+    {
+      "type": "png",
+      "name": "IMAGE_HELI",
+      "file": "helicopter.png"
+    },
+    {
+      "type": "png",
+      "name": "IMAGE_HELI_TILT",
+      "file": "helicopter_tilt.png"
+    }
+      ]
+  }
+}
